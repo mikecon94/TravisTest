@@ -1,1 +1,9 @@
 language: java
+sudo: false
+
+notifications:
+  slack: theladsanderica:9xXSg176RIv0kbF33a3kAI2L
+  
+branches:
+	only:
+		master
