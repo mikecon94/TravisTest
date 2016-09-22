@@ -1,3 +1,4 @@
+package com.test.travis;
 
 import static org.junit.Assert.*;
 
