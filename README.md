@@ -1,1 +1,1 @@
- Status](https://travis-ci.com/mikecon94/TravisTest.svg?token=URCpSRpUHHY37BWhZ9ky&branch=master)](https://travis-ci.com/mikecon94/TravisTest)
+[![Build Status](https://travis-ci.org/mikecon94/TravisTest.svg?branch=master)](https://travis-ci.org/mikecon94/TravisTest)
